@@ -1,0 +1,6 @@
+Final Exam question:
+Software Branch Testing Example (Week #5 -> Topic-3 -> Pg.No.: 6). In this slide, there is a mistake in the flow chart. There is no link from S10 to S11
+
+Start node
+Sequential statements
+condition
