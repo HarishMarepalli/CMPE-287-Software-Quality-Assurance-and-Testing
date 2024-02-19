@@ -1,0 +1,29 @@
+Title: 
+Bug Report: Prakasam District
+
+Description:
+
+Steps to Reproduce:
+1. Go to website so and so
+2. On the home page, go to docs tab
+3. Click on FIRS.
+
+Upload the attachment.
+
+Status: Open Bug
+
+
+
+Title
+Bug Report: Prakasam District (https://prakasam.ap.gov.in/public-utility-category/) button not working.
+
+Description
+I have a found a bug on the prakasam district website. On the Home page, expand the Directory tab to see the PUBLIC UTILITIES option. Expand it to see the TELECOMMUNICATIONS option. If you click it, it does not redirect to the specific page. If I am correct, it has to take us to the "https://prakasam.ap.gov.in/public-utility-category/telecommunications/" page, but is not the case. Even after clicking, it still stays on the same page and does not work.
+
+Steps to Reproduce
+1. Go to the website https://prakasam.ap.gov.in/
+2. On the home page, go to 'Directory' tab.
+3. Under 'DIRECTORY' tab, go to 'PUBLIC UTILITIES' option.
+4. Click on 'TELECOMMUNICATIONS.'
+
+hjkjkshjf 4.	Below attached image for the reporting the bug.

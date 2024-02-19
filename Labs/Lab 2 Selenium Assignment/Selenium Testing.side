@@ -1,0 +1,138 @@
+{
+  "id": "bbadd23b-b8db-474b-b47a-c94345ef75c5",
+  "version": "2.0",
+  "name": "Selenium Testing",
+  "url": "https://www.amazon.com",
+  "tests": [{
+    "id": "8121d1d6-3169-4afe-8181-780c8a8ffea0",
+    "name": "Lab2",
+    "commands": [{
+      "id": "b5a8ce60-f0ce-4a4d-8f82-ad86b7d1e572",
+      "comment": "",
+      "command": "open",
+      "target": "/gp/bestsellers/?ref_=nav_cs_bestsellers",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9a321bca-4ba0-4d97-b82b-581388bd8bca",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1200x680",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dac40f11-f185-4b35-b211-74333c98e0e7",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Best Sellers",
+      "targets": [
+        ["linkText=Best Sellers", "linkText"],
+        ["css=#nav-xshop > .nav-a:nth-child(4)", "css:finder"],
+        ["xpath=//a[contains(text(),'Best Sellers')]", "xpath:link"],
+        ["xpath=//div[@id='nav-xshop']/a[3]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/gp/bestsellers/?ref_=nav_cs_bestsellers')]", "xpath:href"],
+        ["xpath=//div[2]/div/a[3]", "xpath:position"],
+        ["xpath=//a[contains(.,'Best Sellers')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "03d8bee9-000d-41c3-87b0-304413087041",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(2) > .\\_p13n-zg-nav-tab-all_style_zg-tabs-li-div__1YdPR > a",
+      "targets": [
+        ["css=li:nth-child(2) > .\\_p13n-zg-nav-tab-all_style_zg-tabs-li-div__1YdPR > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'New Releases')])[2]", "xpath:link"],
+        ["xpath=//div[@id='CardInstanceaCGUh8n36XbbUd3n9rv-Ww']/div/ul/li[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/gp/new-releases/ref=zg_bs_tab_bsnr')]", "xpath:href"],
+        ["xpath=//li[2]/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de51c57b-0ef5-4b6f-aafa-150c436c8b3c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Amazon Basics",
+      "targets": [
+        ["linkText=Amazon Basics", "linkText"],
+        ["css=.nav-a:nth-child(5)", "css:finder"],
+        ["xpath=//a[contains(text(),'Amazon Basics')]", "xpath:link"],
+        ["xpath=//div[@id='nav-xshop']/a[4]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/stores/node/20648519011?channel=discovbar?field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics')]", "xpath:href"],
+        ["xpath=//div[2]/div/a[4]", "xpath:position"],
+        ["xpath=//a[contains(.,'Amazon Basics')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "73b479d7-84c5-4cdc-8fc0-1cf19ddccd03",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Amazon Basics",
+      "targets": [
+        ["linkText=Amazon Basics", "linkText"],
+        ["css=.nav-a:nth-child(5)", "css:finder"],
+        ["xpath=//a[contains(text(),'Amazon Basics')]", "xpath:link"],
+        ["xpath=//div[@id='nav-xshop']/a[4]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/stores/node/20648519011?channel=discovbar?field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics')]", "xpath:href"],
+        ["xpath=//div[2]/div/a[4]", "xpath:position"],
+        ["xpath=//a[contains(.,'Amazon Basics')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3d6139fc-bb8f-41c4-9826-4495b9ca172f",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,6)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f4a31d60-c090-4ae0-9689-cce7f51aafdd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.Navigation__hasChildren__jSUsH:nth-child(2) > a",
+      "targets": [
+        ["css=.Navigation__hasChildren__jSUsH:nth-child(2) > a", "css:finder"],
+        ["xpath=//div[@id='nav-area']/div/div[2]/div/div[2]/div[2]/div[2]/nav/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/stores/page/7512184D-1149-49EC-8562-807DD3BB9F3E?ingress=0&visitId=740cde16-45b2-4796-846e-347ec0710f97&channel=discovbar%3Ffield-lbr_brands_browse-bin%3DAmazonBasics&ref_=nav_cs_amazonbasics')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "40398eac-feb2-4301-a3d1-1e840cf4d93a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Fall Favorites",
+      "targets": [
+        ["linkText=Fall Favorites", "linkText"],
+        ["css=.Navigation__isOpen__aMUHj .Navigation__navItem__bakjf:nth-child(4) > a", "css:finder"],
+        ["xpath=//div[@id='nav-area']/div/div[2]/div/div[2]/div[2]/div[2]/nav/ul/li[2]/div/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/stores/page/C1164F29-4B1F-46E5-939C-8D46D80B0992?ingress=0&visitId=740cde16-45b2-4796-846e-347ec0710f97&channel=discovbar%3Ffield-lbr_brands_browse-bin%3DAmazonBasics&ref_=nav_cs_amazonbasics')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Fall Favorites')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "78902806-bed9-4981-8e02-98dec34d206e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.Navigation__navList__HrEra > .Navigation__navItem__bakjf:nth-child(5) > a",
+      "targets": [
+        ["css=.Navigation__navList__HrEra > .Navigation__navItem__bakjf:nth-child(5) > a", "css:finder"],
+        ["xpath=//div[@id='nav-area']/div/div[2]/div/div[2]/div[2]/div[2]/nav/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/stores/page/B2E907CA-A6A6-4E9A-808F-AB4AD5F9E7D5?ingress=0&visitId=740cde16-45b2-4796-846e-347ec0710f97&channel=discovbar%3Ffield-lbr_brands_browse-bin%3DAmazonBasics&ref_=nav_cs_amazonbasics')]", "xpath:href"],
+        ["xpath=//nav/ul/li[5]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "a976397b-9acf-4cca-bc17-e9266c521f5a",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8121d1d6-3169-4afe-8181-780c8a8ffea0"]
+  }],
+  "urls": ["https://www.amazon.com/"],
+  "plugins": []
+}

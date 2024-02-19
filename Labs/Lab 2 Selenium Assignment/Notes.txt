@@ -1,0 +1,11 @@
+Selenium Lab:
+
+Install Selenium IDE chrome
+
+Click on Record a new test in a new project
+
+Give any Project Name
+
+For the base URL, give any URL of the website that you want to test
+
+Click on any buttons on that website.

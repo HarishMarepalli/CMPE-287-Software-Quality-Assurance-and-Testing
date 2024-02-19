@@ -1,0 +1,683 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6259
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 15 Tf
+17.25 TL
+0 g
+40. 801.8899999999999864 Td
+(mathscanner-mathscannerfunction-input-DecisionTable) Tj
+ET
+0. G
+0.200025 w
+0. G
+0.200025 w
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+40. 791.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 778.3899999999999864 Td
+(@id) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+101.8163087248321972 791.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+106.8163087248321972 778.3899999999999864 Td
+(Number of Variables) Tj
+ET
+0.16 0.5 0.73 rg
+0.78 G
+0. w
+0.16 0.5 0.73 rg
+331.1418456375838559 791.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+336.1418456375838559 778.3899999999999864 Td
+(Type of Equation) Tj
+ET
+0. G
+0.200025 w
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 770.3899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 756.8899999999999864 Td
+(1) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+101.8163087248321972 770.3899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 756.8899999999999864 Td
+(Single Variable) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+331.1418456375838559 770.3899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 756.8899999999999864 Td
+(Linear Equation) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 748.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 735.3899999999999864 Td
+(2) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+101.8163087248321972 748.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 735.3899999999999864 Td
+(Multi Variable) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+331.1418456375838559 748.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 735.3899999999999864 Td
+(Logarithmic Equation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 727.3899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 713.8899999999999864 Td
+(3) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+101.8163087248321972 727.3899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 713.8899999999999864 Td
+(Multi Variable) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+331.1418456375838559 727.3899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 713.8899999999999864 Td
+(Linear Equation) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 705.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 692.3899999999999864 Td
+(4) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+101.8163087248321972 705.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 692.3899999999999864 Td
+(Single Variable) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+331.1418456375838559 705.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 692.3899999999999864 Td
+(Quadratic Equation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 684.3899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 670.8899999999999864 Td
+(5) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+101.8163087248321972 684.3899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 670.8899999999999864 Td
+(Multi Variable) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+331.1418456375838559 684.3899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 670.8899999999999864 Td
+(Quadratic Equation) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 662.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.3899999999999864 Td
+(6) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+101.8163087248321972 662.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 649.3899999999999864 Td
+(Single Variable) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+331.1418456375838559 662.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 649.3899999999999864 Td
+(Polynomial Equation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 641.3899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.8899999999999864 Td
+(7) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+101.8163087248321972 641.3899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 627.8899999999999864 Td
+(Multi Variable) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+331.1418456375838559 641.3899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 627.8899999999999864 Td
+(Polynomial Equation) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 619.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 606.3899999999999864 Td
+(8) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+101.8163087248321972 619.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 606.3899999999999864 Td
+(Single Variable) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+331.1418456375838559 619.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 606.3899999999999864 Td
+(Exponential Equation) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+40. 598.3899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 584.8899999999999864 Td
+(9) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+101.8163087248321972 598.3899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 584.8899999999999864 Td
+(Multi Variable) Tj
+ET
+0.96 g
+0.78 G
+0. w
+0.96 g
+331.1418456375838559 598.3899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 584.8899999999999864 Td
+(Exponential Equation) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+40. 576.8899999999999864 61.8163087248321972 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 563.3899999999999864 Td
+(10) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+101.8163087248321972 576.8899999999999864 229.3255369127516587 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+106.8163087248321972 563.3899999999999864 Td
+(Single Variable) Tj
+ET
+1. g
+0.78 G
+0. w
+1. g
+331.1418456375838559 576.8899999999999864 224.1381543624161168 -21.5 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+336.1418456375838559 563.3899999999999864 Td
+(Logarithmic Equation) Tj
+ET
+0. G
+0.200025 w
+0.78 G
+0. w
+0. G
+0.200025 w
+0. G
+0.200025 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20231018221322-07'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006463 00000 n 
+0000008280 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006520 00000 n 
+0000006645 00000 n 
+0000006775 00000 n 
+0000006908 00000 n 
+0000007045 00000 n 
+0000007168 00000 n 
+0000007297 00000 n 
+0000007429 00000 n 
+0000007565 00000 n 
+0000007693 00000 n 
+0000007820 00000 n 
+0000007949 00000 n 
+0000008082 00000 n 
+0000008184 00000 n 
+0000008528 00000 n 
+0000008614 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <B28F4498EEBF641207E50D424F920ED2> <B28F4498EEBF641207E50D424F920ED2> ]
+>>
+startxref
+8718
+%%EOF

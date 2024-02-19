@@ -1,0 +1,1 @@
+{"name":"input","children":[{"name":"Type of Equation","children":[{"name":"Linear Equation"},{"name":"Quadratic Equation"},{"name":"Polynomial Equation"},{"name":"Exponential Equation"},{"name":"Logarithmic Equation"}]},{"name":"Number of Variables","children":[{"name":"Single Variable"},{"name":"Multi Variable"}]}]}
